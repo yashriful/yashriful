@@ -19,13 +19,12 @@
 
 ## 🛠️ Tech Stack  
 <p align="center">
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power%20bi&logoColor=black" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
+  
+![image](https://github.com/user-attachments/assets/02c2f253-88a4-466b-8fe5-20863f3203b8)![image](https://github.com/user-attachments/assets/50e0c65d-3863-45c4-a08a-af1e2a6fc0f3)![image](https://github.com/user-attachments/assets/af04c4d7-cf34-4632-93ca-79f64d320538)![image](https://github.com/user-attachments/assets/da5ca660-8741-443c-8657-d7f17c96a82e)![image](https://github.com/user-attachments/assets/602bb474-8847-4614-854e-1a79f98aaf10)
+
+
+  
+
 
 ---
 
