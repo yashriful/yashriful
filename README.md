@@ -12,7 +12,7 @@
 ## 🚀 About Me  
 💡 **Passionate about data** and love **transforming numbers into insights**  
 📊 Skilled in **Excel, Tableau, Power BI, MySQL, Azure, and Python**  
-🔍 **Data Cleaning, Analysis, and Visualization Expert**  
+🔍 **Data Cleaning, Analysis, and Visualisation Expert**  
 🚀 Currently learning **Machine Learning & Predictive Analytics**  
 
 ---
